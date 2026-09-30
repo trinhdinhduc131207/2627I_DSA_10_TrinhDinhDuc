@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Bai_tap_can_bang_chieu_cao_dia/Can_bang_chieu_cao_dia/Can_bang_chieu_cao_dia.iml" filepath="$PROJECT_DIR$/../Bai_tap_can_bang_chieu_cao_dia/Can_bang_chieu_cao_dia/Can_bang_chieu_cao_dia.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bai_toan_dau_ngoac_can.iml" filepath="$PROJECT_DIR$/bai_toan_dau_ngoac_can.iml" />
+    </modules>
+  </component>
+</project>
